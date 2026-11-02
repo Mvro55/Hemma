@@ -349,7 +349,7 @@ export default function ArticleDetails() {
                 </p>
                 
                 <a 
-                  href="https://page-pola16.vercel.app/" 
+                  href="https://nova-x4.vercel.app/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   style={{ 
